@@ -93,3 +93,10 @@ body{
     text-overflow: ellipsis;
     margin: 20px 0px;
 }
+.blog-btn{
+    color: #0f0f0f;
+}
+.blog-btn:hover{
+    color: #f33c3c;
+    transition: all ease 0.3s;
+}
