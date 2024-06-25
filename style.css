@@ -65,7 +65,7 @@ body{
     object-fit: cover;
     object-position: center;
 }
-blog-text{
+.blog-text{
     padding: 30px;
     display: flex;
     flex-direction: column;
@@ -73,4 +73,23 @@ blog-text{
 .blog-text span{
     color: #f33c3c;
     font-size: 0.9rem;
+}
+.blog-text .blog-title{
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: #272727;
+}
+.blog-text .blog-title:hover{
+    color: #f33c3c;
+    transition: all ease 0.3s;
+}
+.blog-text p{
+    color: #9b9b9b;
+    font-size: 0.9rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 20px 0px;
 }
