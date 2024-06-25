@@ -39,3 +39,24 @@ To get a copy of GroBern News up and running on your local machine, follow these
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/MacD12/Responsive-Blog-Layout.git
+   
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd Responsive-Blog-Layout
+
+3. **Open index.html in Your Browser** to explore the website:
+   ```bash
+   open index.html
+## Contributing
+
+We welcome contributions from the community. Feel free to submit pull requests to enhance the website or fix issues.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+Thank you for visiting GroBern News. Stay informed and inspired!
+
+---
